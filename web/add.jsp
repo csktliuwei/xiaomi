@@ -1,16 +1,17 @@
 <%--
   Created by IntelliJ IDEA.
-  User: 86137
+  User: Admin
   Date: 2022/6/18
-  Time: 10:10
+  Time: 12:03
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-  <head>
-    <title>$Title$</title>
-  </head>
-  <body>
-  这是我刚刚修改的代码！
-  </body>
+<head>
+    <title>Title</title>
+</head>
+<body>
+    <h1>Hello!</h1>
+    <button>按钮</button>
+</body>
 </html>
